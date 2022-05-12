@@ -1,0 +1,12 @@
+.gift-box {
+  margin-top: 100px;
+  .button-box {
+    .btn {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+  .content {
+    filter: blur(10px);
+  }
+}
